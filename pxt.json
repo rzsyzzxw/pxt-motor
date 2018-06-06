@@ -5,7 +5,7 @@
     "license": "GNU",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        
     },
     "files": [
         "README.md",
